@@ -4,3 +4,4 @@ I am Leonardo Meoni
 I play volleyball, but I also really like to code programs
 I am interested in Computer Science
 I play video games with my friends
+I like Italy.
